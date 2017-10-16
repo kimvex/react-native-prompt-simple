@@ -15,7 +15,9 @@
     "prompt",
     "react",
     "js",
-    "react-native-prompt"
+    "react-native-prompt",
+    "Android",
+    "IOS"
   ],
   "author": "Benjamin De la cruz Martinez <@kimvex on github.com>",
   "license": "ISC",
