@@ -1,0 +1,26 @@
+{
+  "name": "react-native-prompt-simple",
+  "version": "0.0.1",
+  "description": "a simple prompt for React-native",
+  "main": "lib/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kimvex/react-native-prompt-simple.git"
+  },
+  "keywords": [
+    "react-native",
+    "prompt",
+    "react",
+    "js",
+    "react-native-prompt"
+  ],
+  "author": "Benjamin De la cruz Martinez <@kimvex on github.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimvex/react-native-prompt-simple/issues"
+  },
+  "homepage": "https://github.com/kimvex/react-native-prompt-simple#readme"
+}
