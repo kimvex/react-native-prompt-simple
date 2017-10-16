@@ -12,7 +12,9 @@ A simple prompt for react-native
 npm install --save react-native-prompt-simple
 ```
 
+____
 **Screen**
+
 ![enter image description here](http://res.cloudinary.com/h27hacklab/image/upload/c_scale,r_0,w_299/v1508123685/Simulator_Screen_Shot_-_iPhone_6_-_2017-10-15_at_22.07.34_wjx1sm.png)
 
 ____
